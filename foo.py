@@ -15,3 +15,9 @@ def angry():
 
 def confused():
         print("What?")
+
+def run():
+        print("run run run")
+
+def shoot():
+        print("da..da..da..")
