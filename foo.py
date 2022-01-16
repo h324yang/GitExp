@@ -12,3 +12,9 @@ def smile():
 
 def angry():
         print("I hate this!")
+
+def run():
+        print("run run run")
+
+def shoot():
+        print("da..da..da..")
