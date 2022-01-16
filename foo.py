@@ -6,3 +6,6 @@ def hello():
 
 def cry():
         print("No...")
+
+def smile():
+        print(":)))))")
