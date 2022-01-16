@@ -9,3 +9,6 @@ def cry():
 
 def smile():
         print(":)))))")
+
+def angry():
+        print("I hate this!")
