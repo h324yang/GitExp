@@ -12,3 +12,6 @@ def smile():
 
 def angry():
         print("I hate this!")
+
+def confused():
+        print("What?")
