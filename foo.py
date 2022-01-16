@@ -13,6 +13,9 @@ def smile():
 def angry():
         print("I hate this!")
 
+def confused():
+        print("What?")
+
 def run():
         print("run run run")
 
